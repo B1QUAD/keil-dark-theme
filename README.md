@@ -1,4 +1,6 @@
 # keil-dark-theme
+
+![image of theme](https://raw.githubusercontent.com/B1QUAD/keil-dark-theme/main/keil-dark.png)
 A simple dark theme for the keil uvision IDE
 
 ## Install steps:   

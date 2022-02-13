@@ -97,23 +97,21 @@ style.cpp.86=font:Cascadia Code ExtraLight,size:12,fore:#696969,back:#FFFFFF
 
 # Asm Editor files
 font.monospace.asm=Cascadia Code ExtraLight
-style.asm.32=font:Cascadia Code ExtraLight,size:12,fore:#FFFFFF,back:#282A36
-style.asm.1=font:Cascadia Code ExtraLight,size:12,fore:#FFFFFF,back:#282A36
-style.asm.2=font:Cascadia Code ExtraLight,size:12,fore:#FF0000,back:#282A36
-style.asm.3=font:Cascadia Code ExtraLight,size:12,fore:#F400F4,back:#282A36
-style.asm.4=font:Cascadia Code ExtraLight,size:12,fore:#FFFFFF,back:#282A36
-style.asm.5=font:Cascadia Code ExtraLight,size:12,fore:#FFFFFF,back:#282A36
-style.asm.6=font:Cascadia Code ExtraLight,size:12,fore:#BF5700,back:#282A36
-style.asm.7=font:Cascadia Code ExtraLight,size:12,fore:#BF5700,back:#282A36
-style.asm.9=font:Cascadia Code ExtraLight,size:12,fore:#BF5700,back:#282A36
-style.asm.10=font:Cascadia Code ExtraLight,size:12,fore:#BF5700,back:#282A36
-style.asm.11=font:Cascadia Code ExtraLight,size:12,fore:#007F00,back:#282A36
-style.asm.12=font:Cascadia Code ExtraLight,size:12,fore:#F400F4,back:#282A36
-style.asm.8=font:Cascadia Code ExtraLight,size:12,fore:#46AA03,back:#282A36
+style.asm.32=font:Cascadia Code ExtraLight,size:12,fore:#F8F8F2,back:#282A36
+style.asm.1=font:Cascadia Code ExtraLight,size:12,fore:#6272A4,back:#282A36
+style.asm.2=font:Cascadia Code ExtraLight,size:12,fore:#BD93F9,back:#282A36
+style.asm.3=font:Cascadia Code ExtraLight,size:12,fore:#BD93F9,back:#282A36
+style.asm.4=font:Cascadia Code ExtraLight,size:12,fore:#FFB86C,back:#282A36
+style.asm.5=font:Cascadia Code ExtraLight,size:12,fore:#F8F8F2,back:#282A36
+style.asm.6=font:Cascadia Code ExtraLight,size:12,fore:#FFB86C,back:#282A36
+style.asm.7=font:Cascadia Code ExtraLight,size:12,fore:#FFB86C,back:#282A36
+style.asm.9=font:Cascadia Code ExtraLight,size:12,fore:#50FA7B,back:#282A36
+style.asm.10=font:Cascadia Code ExtraLight,size:12,fore:#6272A4,back:#282A36
+style.asm.11=font:Cascadia Code ExtraLight,size:12,fore:#6272A4,back:#282A36
+style.asm.12=font:Cascadia Code ExtraLight,size:12,fore:#BD93F9,back:#282A36
+style.asm.8=font:Cascadia Code ExtraLight,size:12,fore:#50FA7B,back:#282A36
 
 
 # Editor Text files
 font.monospace.txt=Cascadia Code ExtraLight
 style.txt.32=font:Cascadia Code ExtraLight,size:12,fore:#FFFFFF,back:#282A36
-
-
